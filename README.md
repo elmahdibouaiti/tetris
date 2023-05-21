@@ -2,11 +2,6 @@
 
 Tetris game made on React + NextJS + Typescript as a practice.
 
-:exclamation: It works only on desktop for the moment. :exclamation:
-
-## Try it
-
-https://react-tetris-alpha.vercel.app/
 
 ## Preview
 <img src="preview.png" alt="Preview" width="300" />
